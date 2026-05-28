@@ -1,5 +1,6 @@
 import logging
 from typing import Optional
+from abc import abstractmethod
 
 import torch
 import torch.nn as nn
